@@ -135,10 +135,10 @@ I take projects from domain-driven API design and **event-driven, real-time** fe
 <img src="https://streak-stats.demolab.com/?user=Parsa-Kolahdoozan&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170"/>
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="170"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parsa-Kolahdoozan&theme=tokyo-night&hide_border=true&area=true" width="92%"/>
