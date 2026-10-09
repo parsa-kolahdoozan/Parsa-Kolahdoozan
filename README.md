@@ -78,12 +78,11 @@ Software developer working across the full stack — **Django / DRF** on the bac
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0e2a47&height=120&section=footer" width="100%"/>
 </div> -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Backend+%26+Full-Stack+Developer;Django+-+DRF+-+FastAPI+-+Channels+-+Celery;Event-driven+%26+real-time+systems;Next.js+-+React+-+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Backend+%7C+Full-Stack+Developer;Django+-+DRF+-+FastAPI+-+Channels+-+Celery;Event-driven+and+real-time+systems;Next.js+-+React+-+TypeScript" alt="Typing SVG" />
 
 <br>
 
@@ -106,44 +105,39 @@ Software developer working across the full stack — **Django / DRF** on the bac
 Backend-focused full-stack developer building production systems with **Python (Django, DRF, FastAPI)** and **Next.js / React**.
 I take projects from domain-driven API design and **event-driven, real-time** features (Redis pub/sub, task queues, WebSockets) through to Dockerized deployment, CI/CD and monitoring on Linux servers.
 
-- 🏭 Building industrial and commercial systems at **Eyerik**
+- 🏭 Backend / Full-Stack Developer at **Eyerik**
 - 🎓 B.Sc. Computer Engineering student, Shahrekord University
-- 🥇 National 1st place, Python coding competition (Iran)
-
----
-
-### 🚀 Featured Work
-
-| Project | What it is | Highlights |
-|---|---|---|
-| **Sadr Industrial Park** · [sadrcargo.ir](https://sadrcargo.ir) | Gate-pass & access-control platform for ~600 companies | Django → async **FastAPI** drop-in rewrite · event-driven plate-recognition integration · ~2,000 concurrent users at p95 < 0.6 s · ~170 integration tests |
-| **Snowa Quality Monitoring** | Real-time production quality dashboards | Redis pub/sub → Celery queue → WebSockets · DPMO / sigma / shift KPIs · TimescaleDB |
-| **Aava Tila** · [aavatila.com](https://aavatila.com) | Architecture firm website + custom admin panel | Fully dynamic CMS · multilingual · image pipeline · GitHub Actions → GHCR → VPS |
-| **Avid Gostaran** | Corporate site, product catalog & blog | Rich-text editor with product / media embeds · HTML & SVG sanitization · scheduled backups |
-
-<sub>Client repositories are private — happy to walk through the architecture in an interview.</sub>
 
 ---
 
 ### 🛠 Tech Stack
 
-| Area | Technologies | Used in |
-|---|---|---|
-| Backend | Django 5 · DRF · FastAPI · SQLAlchemy 2 (async) · Pydantic 2 · Alembic | All projects |
-| Real-time & Event-driven | Django Channels · WebSocket · Redis pub/sub · Celery · Celery Beat · Job queues | Sadr, Snowa |
-| Data | PostgreSQL · TimescaleDB · PgBouncer · Redis · Query optimization · S3 / MinIO | Sadr, Snowa |
-| Security | JWT (HttpOnly cookies) · Argon2 · django-axes · CSP · Rate limiting · OTP / MFA | Sadr, Snowa |
-| Testing | pytest · pytest-asyncio · Integration tests · Load testing (Locust, wrk) | Sadr, Snowa |
-| DevOps | Docker · Docker Compose · nginx · GitHub Actions · GHCR · Linux VPS · Netdata · Sentry | Sadr, Aava Tila |
-| Frontend | Next.js 16 · React 19 · TypeScript · Tailwind · shadcn/ui · Ant Design · TanStack Query · Zustand | All projects |
+| Area | Technologies |
+|---|---|
+| Backend | Django 5 · DRF · FastAPI · SQLAlchemy 2 (async) · Pydantic 2 · Alembic · drf-spectacular |
+| Real-time & Event-driven | Django Channels · WebSocket · Redis pub/sub · Celery · Celery Beat · Job queues |
+| Data | PostgreSQL · TimescaleDB · PgBouncer · Redis · Query optimization · S3 / MinIO |
+| Security | JWT (HttpOnly cookies) · Argon2 · django-axes · CSP · Rate limiting · OTP / MFA |
+| Testing | pytest · pytest-asyncio · Integration tests · Load testing (Locust, wrk) |
+| DevOps | Docker · Docker Compose · nginx · GitHub Actions · GHCR · Linux VPS · Netdata · Sentry |
+| Frontend | Next.js 16 · React 19 · TypeScript · Tailwind · shadcn/ui · Ant Design · TanStack Query · Zustand |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Parsa-Kolahdoozan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parsa-Kolahdoozan&theme=tokyonight&hide_border=true" height="165"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="92%"/>
+</div>
+
+<div align="center">
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Parsa-Kolahdoozan&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="170"/>
 </div>
 
 <div align="center">
