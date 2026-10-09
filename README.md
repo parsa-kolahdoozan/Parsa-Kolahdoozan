@@ -126,9 +126,9 @@ I take projects from domain-driven API design and **event-driven, real-time** fe
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="92%"/>
-</div>
+</div> -->
 
 <div align="center">
 <!-- <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170"/> -->
